@@ -1,3 +1,2 @@
 # Jurate-cv
-
-Hi
+This is my CV
